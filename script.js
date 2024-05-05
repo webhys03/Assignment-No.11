@@ -9,7 +9,6 @@
 
 // if (!isNaN(birthYear)) {
 //     const age = calculateAge(birthYear);
-//     if (age >= 0) {
 //         console.log("You are " + age + " years old.");
 //     } else {
 //         console.log("Invalid birth year entered.");
@@ -198,7 +197,11 @@
 // So, result is equal to 8. After this operation, the value of a becomes 5 and the value of b becomes 3.
 
 // 
-
+//? - Q6
+//? let m = 2;
+//? let n = 4;
+//? let p = m++ + ++n - --m + n--;
+//? m = 1, n = 4, p = 10
 // - Q7
 // let a = 5;
 // let b = 3;
